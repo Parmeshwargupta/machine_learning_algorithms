@@ -1,0 +1,58 @@
+{
+  "notebooks": {
+    "class numpy practice.ipynb": {
+      "slug": "731ca67b93044fb192b55a2aace8b7e3"
+    },
+    "conditionalAndLoop.ipynb": {
+      "slug": "a32bc1ed51ff47a88143206a1c69d43b"
+    },
+    "D1Questions-5.ipynb": {
+      "slug": "ce724c019bb54a1283d16b4ef55026f0"
+    },
+    "function.ipynb": {
+      "slug": "a4fea6e0a04049119ddefca81e19cda3"
+    },
+    "list.ipynb": {
+      "slug": "8eef992f76d244968e9e98cb43f2ae46"
+    },
+    "listForClass.ipynb": {
+      "slug": "d550dfb4847b48828122e503ca46227e"
+    },
+    "NOTEBOOK_DAY01.ipynb": {
+      "slug": "9ae9d82b379945ddbd8dde3f53e55d08"
+    },
+    "NumPy and its Function.ipynb": {
+      "slug": "42a8e9cdfef94a92ae7600c431206c1f"
+    },
+    "NumPy Basic.ipynb": {
+      "slug": "ece9bb8921ca4c69af9ea2ffbdaeef55"
+    },
+    "NUMPY CLASS.ipynb": {
+      "slug": "ea0d9ff4ef394e5eb0fb8884d6b12960"
+    },
+    "numpy Exercise solution.ipynb": {
+      "slug": "17a661c780c748d1bbcf49eb3d28a982"
+    },
+    "NumPyEXERCISE_DAY01.ipynb": {
+      "slug": "e90b07f4c26e4e409fb22904eb654190"
+    },
+    "Pandas - Basics.ipynb": {
+      "slug": "750d6195cc2d452f9ef09bbfea3abbe6"
+    },
+    "pandas class.ipynb": {
+      "slug": "c3e08d9f0c9644e5b9b3c0713a13d018"
+    },
+    "pandas group merge concat.ipynb": {
+      "slug": "5d8af5f83d9c47f5ab1c00260075a1bf"
+    },
+    "Tuple-Copy1.ipynb": {
+      "slug": "3617672196a742bc98e03cd225fe06da"
+    },
+    "Tuple.ipynb": {
+      "slug": "2a5326d225874974b83d718eccf7fd3b"
+    },
+    "TupleSetExercise.ipynb": {
+      "slug": "2299e5b178f5486587431034e3f2e96e"
+    }
+  }
+}

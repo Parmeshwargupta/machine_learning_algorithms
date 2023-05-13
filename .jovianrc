@@ -1,0 +1,31 @@
+{
+  "notebooks": {
+    "Data visualization.ipynb": {
+      "slug": "2cc1969adc654372be51631b3ad7c8cd"
+    },
+    "function.ipynb": {
+      "slug": "9aa407886cc1459cabb6f97e8413343e"
+    },
+    "KNN hard code.ipynb": {
+      "slug": "453915bf62dd442bbc0b0a01c0924382"
+    },
+    "numpy.ipynb": {
+      "slug": "2a42c7fc2bcd43f89aa6a05c93966993"
+    },
+    "numpy_question.ipynb": {
+      "slug": "366866049f104e66bc89da8bcce4c597"
+    },
+    "pandas.ipynb": {
+      "slug": "2796bac3524749dcaeeb085fafcec8e5"
+    },
+    "simple_linear_regression.ipynb": {
+      "slug": "d9382a817aa04576860fb5616919823f"
+    },
+    "simple_linear_regression_2.ipynb": {
+      "slug": "bafc56d066ee4c889277fb6d22cd6ac0"
+    },
+    "K-Neighbour-classification.ipynb": {
+      "slug": "eba905239e3849228b668c0733e27d95"
+    }
+  }
+}
